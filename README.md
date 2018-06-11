@@ -1,5 +1,5 @@
 # PointNetVlad-Pytorch
-Pytorch implementation of PointNetVlad (https://github.com/mikacuy/pointnetvlad)
+Unofficial PyTorch implementation of PointNetVlad (https://github.com/mikacuy/pointnetvlad)
 
 I kept almost everything not related to tensorflow as the original implementation.
 The main differences are:
