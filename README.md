@@ -36,3 +36,5 @@ python train_pointnetvlad.py --dataset_folder $DATASET_FOLDER
 ```
 python evaluate.py --dataset_folder $DATASET_FOLDER
 ```
+
+Take a look at train_pointnetvlad.py and evaluate.py for more parameters
