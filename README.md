@@ -1,6 +1,8 @@
 # PointNetVlad-Pytorch
 Unofficial PyTorch implementation of PointNetVlad (https://github.com/mikacuy/pointnetvlad)
 
+:warning: This repository is not maintained. Any questions regarding the approach should be directed to the authors of the original implementation: https://github.com/mikacuy/pointnetvlad
+
 I kept almost everything not related to tensorflow as the original implementation.
 The main differences are:
 * Multi-GPU support
